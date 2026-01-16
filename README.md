@@ -51,7 +51,7 @@ I am a strong problem-solver with attention to detail, passionate about clean ar
    <img src="Images/icons/php.png" alt="Php"/>
   <img src="Images/icons/tailwind.png" alt="Tailwind CSS"/>
   <img src="Images/icons/Bootsrap.png" alt="Bootstrap"/>
-  <img src="Images/icons/aws" alt="Aws"/>
+  <img src="Images/icons/aws.png" alt="Aws"/>
 </p>
 <p align="center">
  
@@ -60,4 +60,5 @@ I am a strong problem-solver with attention to detail, passionate about clean ar
 </p>
 
 <br/>
+
 

@@ -48,15 +48,16 @@ I am a strong problem-solver with attention to detail, passionate about clean ar
 </p>
 <p align="center">
   <img src="Images/icons/react.png" alt="React"/>
-   <img src="Images/icons/node.png" alt="Node.js"/>
+   <img src="Images/icons/php.png" alt="Php"/>
   <img src="Images/icons/tailwind.png" alt="Tailwind CSS"/>
   <img src="Images/icons/Bootsrap.png" alt="Bootstrap"/>
-  <img src="Images/icons/firebase.png" alt="Firebase"/>
+  <img src="Images/icons/aws" alt="Aws"/>
 </p>
 <p align="center">
  
-  <img src="Images/icons/express.png" alt="Express.js"/>
-  <img src="Images/icons/mongo.png" alt="MongoDB"/>
+  <img src="Images/icons/laravel.png" alt="Laravel"/>
+  <img src="Images/icons/sql.png" alt="MySql"/>
 </p>
 
 <br/>
+

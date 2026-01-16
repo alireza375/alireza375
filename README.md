@@ -11,9 +11,13 @@
       <img src="Images/icons/azhar.png" alt="Azharuddin" style="width: 300px; height: auto; display: block;">
     </td>
     <td style="width: 60%; vertical-align: top;">
-      <h2 style="font-size: 1.5rem; color: #007bff;">I am Azharuddin</h2>
+      <h2 style="font-size: 1.5rem; color: #007bff;">I am Ali Reza Raju</h2>
       <p style="font-size: 1rem; color: #333;">
-        A dedicated web developer with a strong foundation in computer science, having graduated from Khulna University. My skills encompass a range of web technologies including HTML, CSS, JavaScript, React for front-end development, and Node.js, Express for back-end development. I am proficient in database management with MySQL, MongoDB, and experienced with Git for version control. I have developed and maintained multiple websites and web applications, focusing on user experience and performance optimization. My projects include a fully functional e-commerce platform using React and Node.js, a dynamic blog platform using Django, and a personal portfolio website. I excel in problem-solving, attention to detail, and teamwork, and am passionate about continuous learning and staying updated with the latest industry trends.
+       A dedicated Backend Web Developer specializing in Laravel (PHP) with a strong understanding of building secure, scalable, and maintainable web applications. I have hands-on experience in developing RESTful APIs, authentication systems, role-based access control, and complex business logic using Laravel best practices. I am proficient in working with MySQL databases, writing optimized queries, and managing migrations, seeders, and relationships.
+
+I have contributed to multiple real-world and commercial projects, including CodeCanyon-ready applications such as car rental systems, shop management platforms, and LMS-based solutions. My backend work includes payment gateway integration, notification systems, admin dashboards, data validation, and performance optimization. I regularly use Git for version control and collaborate effectively with frontend teams to ensure smooth API integration.
+
+I am a strong problem-solver with attention to detail, passionate about clean architecture, continuous learning, and staying up to date with modern Laravel ecosystems and backend development trends.
       </p>
     </td>
   </tr>
@@ -55,3 +59,4 @@
   <img src="Images/icons/mongo.png" alt="MongoDB"/>
 </p>
 <br/>
+
